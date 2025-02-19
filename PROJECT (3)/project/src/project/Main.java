@@ -6,7 +6,7 @@ package project;
 
 /**
  *
- * @author Quang viet
+ * @author Viet Anh
  */
 
 import javax.swing.*;
