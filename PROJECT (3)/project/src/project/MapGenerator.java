@@ -6,7 +6,7 @@ package project;
 
 /**
  *
- * @author Quang viet
+ * @author Viet Anh
  */
 import java.awt.Graphics2D;
 import java.awt.Image;
